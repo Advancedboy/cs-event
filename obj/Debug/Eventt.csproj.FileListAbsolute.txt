@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\delegate_event\event\bin\Debug\@event.exe.config
+E:\#1Programming\2022\patterns\delegate_event\event\bin\Debug\@event.exe
+E:\#1Programming\2022\patterns\delegate_event\event\bin\Debug\@event.pdb
+E:\#1Programming\2022\patterns\delegate_event\event\obj\Debug\Eventt.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\delegate_event\event\obj\Debug\Eventt.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\delegate_event\event\obj\Debug\Eventt.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\delegate_event\event\obj\Debug\@event.exe
+E:\#1Programming\2022\patterns\delegate_event\event\obj\Debug\@event.pdb
